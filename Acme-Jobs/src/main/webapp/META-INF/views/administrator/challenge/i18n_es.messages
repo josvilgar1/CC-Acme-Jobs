@@ -1,0 +1,37 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+administrator.challenge.list.label.title = Título
+administrator.challenge.list.label.deadline = Fecha Límite
+administrator.challenge.list.label.description = Descripción
+administrator.challenge.list.label.goalreward = Objetivo/Recompensa
+
+administrator.challenge.form.lable.title = Título
+administrator.challenge.form.lable.deadline = Fecha Límite
+administrator.challenge.form.lable.description = Descripción
+administrator.challenge.form.lable.goal.gold = Objetivo oro
+administrator.challenge.form.lable.goal.silver = Objetivo plata
+administrator.challenge.form.lable.goal.bronze = Objetivo bronce
+administrator.challenge.form.lable.reward.gold = Recompensa oro
+administrator.challenge.form.lable.reward.silver = Recompensa plata
+administrator.challenge.form.lable.reward.bronze = Recompensa bronce
+administrator.challenge.form.button.create = Crear
+administrator.challenge.form.button.update = Actualizar
+administrator.challenge.form.button.delete = Borrar
+administrator.challenge.form.button.return = Volver
+
+administrator.challenge.form.errors.deadline.null=Se necesita fecha límite
+administrator.challenge.form.errors.reward.gold.null=Se necesita recompensa oro
+administrator.challenge.form.errors.reward.silver.null=Se necesita recompensa plata
+administrator.challenge.form.errors.reward.bronze.null=Se necesita recompensa bronce
+administrator.challenge.form.errors.deadline=La fecha límite debe ser futura
+administrator.challenge.form.errors.deadline.week=La fecha límite debe ser mínimo de una semana
+administrator.challenge.form.errors.reward.currency=La moneda debe ser EUR
+administrator.challenge.form.errors.reward.amount=La recompensa oro debe ser mayor que la plata y esta mayor que la bronce

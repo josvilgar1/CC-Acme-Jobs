@@ -1,0 +1,28 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+worker.application.form.lable.job.employer.identity.fullName = Employer's full name
+worker.application.form.lable.job.title = Job Title
+
+worker.application.list.label.referenceNumber = Reference Number
+worker.application.list.label.statement = Statement
+worker.application.list.label.creationMoment = Creation Moment
+
+worker.application.form.lable.referenceNumber = Reference Number
+worker.application.form.lable.creationMoment = Creation Moment
+worker.application.form.lable.statement = Statement
+worker.application.form.lable.skills = Skills
+worker.application.form.lable.qualifications = Qualifications
+
+worker.application.form.button.job = Job
+worker.application.form.button.return = Return
+worker.application.form.button.create = Create
+
+worker.application.form.errors.referenceNumber.alreadyExists = Reference number already exists

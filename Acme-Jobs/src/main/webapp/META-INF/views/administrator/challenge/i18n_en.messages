@@ -1,0 +1,40 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+administrator.challenge.list.label.title = Title
+administrator.challenge.list.label.deadline = Deadline
+administrator.challenge.list.label.description = Description
+administrator.challenge.list.label.goalreward = Goal/Reward
+
+administrator.challenge.form.lable.title = Title
+administrator.challenge.form.lable.deadline = Deadline
+administrator.challenge.form.lable.description = Description
+administrator.challenge.form.lable.goal.gold = Goal gold
+administrator.challenge.form.lable.goal.silver = Goal silver
+administrator.challenge.form.lable.goal.bronze = Goal bronze
+administrator.challenge.form.lable.reward.gold = Reward gold
+administrator.challenge.form.lable.reward.silver = Reward silver
+administrator.challenge.form.lable.reward.bronze = Reward bronze
+administrator.challenge.form.button.create = Create
+administrator.challenge.form.button.update = Update
+administrator.challenge.form.button.delete = Delete
+
+administrator.challenge.form.button.return = Return
+
+administrator.challenge.form.errors.deadline.null = Deadline is required
+administrator.challenge.form.errors.reward.gold.null = Gold reward needed
+administrator.challenge.form.errors.reward.silver.null = Silver reward needed
+administrator.challenge.form.errors.reward.bronze.null = Bronze reward needed
+administrator.challenge.form.errors.deadline = The deadline must be future
+administrator.challenge.form.errors.deadline.week = The deadline must be at least one week
+administrator.challenge.form.errors.reward.currency = Currency must be EUR
+administrator.challenge.form.errors.reward.amount = The gold reward must be greater than silver and this greater than bronze
+administrator.challenge.form.errors.deadline = The deadline must be future
+administrator.challenge.form.errors.deadline = The deadline should be future

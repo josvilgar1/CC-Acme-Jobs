@@ -1,0 +1,14 @@
+#List-tags-----------------------------------------------------------------
+authenticated.duty.list.label.title = Título
+authenticated.duty.list.label.percentageOfTime = Porcentaje de tiempo
+authenticated.duty.list.label.description = Descripción
+
+#Form-tags-----------------------------------------------------------------
+authenticated.duty.form.label.job.reference = Referencia de trabajo
+authenticated.duty.form.label.title = Titulo
+authenticated.duty.form.label.percentageOfTime = Porcentaje de tiempo
+authenticated.duty.form.label.description = Descripción
+
+#Buttons-------------------------------------------------------------------
+authenticated.duty.form.button.job = Trabajo
+authenticated.duty.form.button.return = Volver

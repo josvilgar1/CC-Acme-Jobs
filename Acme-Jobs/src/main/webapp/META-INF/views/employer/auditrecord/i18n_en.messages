@@ -1,0 +1,17 @@
+#List-tags-----------------------------------------------------------------
+employer.auditrecord.list.label.title = Title
+employer.auditrecord.list.label.creationMoment = Creation moment
+employer.auditrecord.list.label.auditor.identity.fullName = Auditor full name
+employer.auditrecord.list.label.job.reference = Job reference
+
+#Form-tags-----------------------------------------------------------------
+employer.auditrecord.form.label.auditor.identity.fullName = Auditor full name
+employer.auditrecord.form.label.job.reference = Job reference
+employer.auditrecord.form.label.title = Title
+employer.auditrecord.form.label.creationMoment = Creation moment
+employer.auditrecord.form.label.body = Body
+
+#Buttons-------------------------------------------------------------------
+employer.auditrecord.form.button.job = Job
+employer.auditrecord.form.button.auditor = Auditor
+employer.auditrecord.form.button.return = Return

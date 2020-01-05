@@ -1,0 +1,15 @@
+#List tags	-----------------------------------------------
+
+authenticated.investorrecord.list.label.name = Nombre
+authenticated.investorrecord.list.label.sector = Sector
+authenticated.investorrecord.list.label.statement = Statement
+authenticated.investorrecord.list.label.stars = Estrellas
+
+#Show tags	-----------------------------------------------
+
+authenticated.investorrecord.show.label.name = Nombre
+authenticated.investorrecord.show.label.sector = Sector
+authenticated.investorrecord.show.label.statement = Estado
+authenticated.investorrecord.show.label.stars = Estrellas
+
+authenticated.investorrecord.show.button.return = Volver

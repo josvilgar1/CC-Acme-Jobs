@@ -1,0 +1,30 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+auditor.auditrecord.form.label.employer.fullname=Nombre completo del empleador
+auditor.auditrecord.form.label.employer.show=Mostrar Empleado
+
+auditor.auditrecord.list.label.title=Título
+auditor.auditrecord.list.label.finalMode = Es final
+auditor.auditrecord.list.label.body=Cuerpo
+
+auditor.auditrecord.form.label.title=Título
+auditor.auditrecord.form.label.creationMoment=Momento de creación
+auditor.auditrecord.form.label.body=Cuerpo
+auditor.auditrecord.form.label.finalMode = Es final
+
+auditor.auditrecord.form.errors.spam.title = El título contiene palabras spam 
+auditor.auditrecord.form.errors.spam.body = El cuerpo contiene palabras spam
+
+auditor.auditrecord.form.button.return=Volver
+auditor.auditrecord.form.button.job.show=Mostrar Trabajo
+auditor.auditrecord.form.button.auditor.show=Mostrar Auditor
+auditor.auditrecord.form.button.create = Crear Registro de Auditoría
+auditor.auditrecord.form.button.update = Actualizar Registro de Auditoría
